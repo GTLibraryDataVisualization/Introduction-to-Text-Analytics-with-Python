@@ -1,0 +1,14 @@
+This workshop will walk you through the basics of a text analysis project. To attend this workshop, you are expected to have basic Python knowledge.'
+
+Tools used in this workshop: 
+
+1. Python 3 or above
+    If your python version is old, please upgrade it with CMD or Terminal. The command varies depending on your OS and setup. Please google it.
+2. Jupyter Notebook
+3. NLTK packages installed
+    If you are using standalone Python, run the following command:
+      --pip install nltk
+    If you are using Anaconda, run the following command:
+     --install -c anaconda nltk
+4. Test your installation
+   Please download the "PrepTest_Text Analytics with Python" in this repository to run on your machine to see if your setup works.
