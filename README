@@ -1,4 +1,11 @@
-This workshop will walk you through the basics of a text analysis project. To attend this workshop, you are expected to have basic Python knowledge.'
+This workshop is designed for beginners to get familiar with the basic process of a text analysis project. To attend this workshop, you are expected to have basic Python knowledge.
+Some steps we will go through together include:
+  -- import a group of files
+  -- clean the text
+  -- tokenize the text
+  -- stem / lemmatize the tokens
+  -- a few different kinds of words counting
+  -- create plots for words frequency and dipersion
 
 Tools used in this workshop: 
 
